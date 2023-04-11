@@ -2,3 +2,4 @@ updata=5
 
 time
 git-test
+ssh test
